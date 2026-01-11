@@ -52,7 +52,7 @@ pip install pandas numpy scikit-learn tensorflow matplotlib seaborn imbalanced-l
 
 ```
 
-3. **Execution:** Run the `SBC_TUBES_traditional_ml.ipynb` notebook. The script will automatically generate:
+3. **Execution:** Run the notebook. The script will automatically generate:
 * Confusion Matrices for each model.
 * ROC-AUC curves for performance visualization.
 * Comparative performance metrics printed in the console.
